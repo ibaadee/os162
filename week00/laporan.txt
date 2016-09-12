@@ -1,0 +1,8 @@
+#ibad_rahadian
+Laporan Lab OS week00
+
+Minggu lalu saya mendaftarkan akun google, github, dan LDAP saya
+sebagai peserta os162.
+Lalu saya belajar bagaimana caranya agar dapat login di server badak.
+
+#ibad_rahadian 
