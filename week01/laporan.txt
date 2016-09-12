@@ -1,0 +1,9 @@
+Laporan week01
+
+Pada minggu ini saya belajar bagaimana cara push 
+and pull pada git. Saya juga belajar bagaimana 
+mengeksekusi text editor dari server badak dengan
+menggunakan terminal. lalu saya juga belajar bagaimana
+dapat mencetak status dari terminal kedalam file .txt.
+Juga saya belajar bagaimana cara memindahkan file
+dengan menggunakan terminal.
